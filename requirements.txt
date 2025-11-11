@@ -1,0 +1,7 @@
+ipykernel
+insightface
+opencv-python-headless
+matplotlib
+numpy
+scikit-learn
+onnxruntime
